@@ -1,5 +1,3 @@
-
-[AULA 04] Criando primeira rota
 [AULA 06] Utilizando Nodemon
 [AULA 07] Instalando MongoDB
 [AULA 08] Conectando Database
