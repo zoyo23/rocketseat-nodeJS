@@ -1,0 +1,12 @@
+
+[AULA 04] Criando primeira rota
+[AULA 06] Utilizando Nodemon
+[AULA 07] Instalando MongoDB
+[AULA 08] Conectando Database
+[AULA 09] Criando model de produto
+[AULA 10] Reestruturação de arquivos
+[AULA 11] Utilizando o Insomnia
+[AULA 12] Criação de registro
+[AULA 13] CRUD
+[AULA 14] Paginação da lista
+[AULA 15] Adicionando CORS
