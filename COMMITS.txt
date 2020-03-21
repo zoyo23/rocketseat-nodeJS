@@ -1,4 +1,3 @@
-[AULA 10] Reestruturação de arquivos
 [AULA 11] Utilizando o Insomnia
 [AULA 12] Criação de registro
 [AULA 13] CRUD
