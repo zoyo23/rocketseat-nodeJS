@@ -1,5 +1,3 @@
-[AULA 07] Instalando MongoDB
-[AULA 08] Conectando Database
 [AULA 09] Criando model de produto
 [AULA 10] Reestruturação de arquivos
 [AULA 11] Utilizando o Insomnia
