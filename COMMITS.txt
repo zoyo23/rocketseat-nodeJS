@@ -1,2 +1,1 @@
-[AULA 14] Paginação da lista
 [AULA 15] Adicionando CORS
